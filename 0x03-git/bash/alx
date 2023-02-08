@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ALX Schoool is so cool!
+=======
+#!/bin/bash \necho "ALX School" 
+>>>>>>> origin/update_script
